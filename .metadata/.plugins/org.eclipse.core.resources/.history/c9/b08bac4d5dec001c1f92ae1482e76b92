@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Retrieve Product Details</title>
+</head>
+
+<form action=ProductDetail>
+<h1>Please Enter A Product ID Between 1-5</h1>
+<label>Product ID:</label>
+<input type=text id="id"><br>
+<input type=submit></input><br>
+</form>
+
+<body>
+
+</body>
+</html>
